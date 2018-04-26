@@ -1,2 +1,4 @@
 print "Enter value"
-a = gets.chomp
+a = gets.to_i
+
+puts a + a * a
