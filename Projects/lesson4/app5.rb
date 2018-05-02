@@ -1,3 +1,4 @@
+
 print "Enter X: "
 x = gets.to_i
 
