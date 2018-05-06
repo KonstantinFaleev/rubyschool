@@ -1,5 +1,5 @@
 def get_password
-  print 'Type password'
+  print 'Type password:'
   gets.chomp * 3
 end
 
