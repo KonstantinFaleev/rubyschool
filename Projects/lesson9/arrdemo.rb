@@ -7,7 +7,7 @@ puts arr
 
 arr = []
 while 2 + 2 == 4
-  print "Введите ваш любимый цвет: "
+  print "Введите ваш любимый цвет(или stop для выхода): "
   color = gets.strip
 
   if color == "stop"
