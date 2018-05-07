@@ -11,7 +11,7 @@ while 2 + 2 == 4
   color = gets.strip
 
   if color == "stop"
-    puts arr.uniq
+    puts arr.uniq.reverse
     exit
   end
 
