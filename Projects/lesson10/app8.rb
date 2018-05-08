@@ -13,10 +13,26 @@ else
 end
 
 arr = [:rock, :scissors, :paper]
-
 computer_choice = arr[rand(0..2)]
 
-if computer_choice == user_choice
-  puts "Nobody wins"
+matrix = [
+    [:rock, :paper, :second_win],
+    [:rock, :scissors, :first_win],
+    [:rock, :rock, :drow]
+]
+
+matrix.each do [item]
+  if item[0] == user_choice && item[1] == computer_choice
+    if item[2] == :first_win
+      puts "User wins!"
+    elsif item[2] == :second_win
+      puts "Computer wins!"
+    elsif item[2] == :drow
+      puts "Drow!"
+    end
+    exit
+  end
 end
+
+
 
