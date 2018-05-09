@@ -1,0 +1,19 @@
+phonebook = {}
+
+loop do
+
+  print 'Enter name(Enter to stop)'
+  name = gets.strip.capitalize
+
+  if name == ''
+    break
+  end
+
+  print 'Enter your number'
+  phone_number = gets.strip
+
+  phonebook[name] = phone_number
+
+end
+
+puts phonebook
