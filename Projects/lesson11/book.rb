@@ -16,4 +16,9 @@ loop do
 
 end
 
-puts phonebook
+#puts phonebook
+#puts phonebook['Mike']
+
+phonebook.each do |key, value|
+  puts "Name: #{key} Phone_number: #{value}"
+end
