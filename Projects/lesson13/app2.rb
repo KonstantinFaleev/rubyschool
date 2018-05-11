@@ -1,9 +1,10 @@
 @hh = {}
 
-def add_person name, age
-    puts 'Already exists!' if @hh[name]
+def add_person options
 
-  @hh[name] = age
+  puts 'Already exists!' if @hh[options[:name]]
+
+  @hh[options[:name]] = options[:age]
 
 end
 
@@ -26,5 +27,6 @@ loop do
   print "Enter age: "
   age = gets.to_i
 
-  add_person name, age
+  options = { :name => name ,:age => age }
+  add_person options
 end
