@@ -1,7 +1,7 @@
 class Airplane
   attr_reader :model
   attr_reader :altitude
-  attr_reader :speed
+  attr_accessor :speed
 
   def initialize(model)
     @model = model
@@ -33,7 +33,7 @@ planes = []
   if rand(0..1) == 1
     plane.fly
   end
-
+  plane.speed = rand(500..800)
   planes << plane
 end
 
