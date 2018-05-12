@@ -27,6 +27,6 @@ loop do
   print "Enter age: "
   age = gets.to_i
 
-  options = { :name => name ,:age => age }
-  add_person options
+  #options = { :name => name ,:age => age }
+  add_person :name => name ,:age => age#options
 end

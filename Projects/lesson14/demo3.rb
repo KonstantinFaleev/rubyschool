@@ -3,6 +3,7 @@ class Book
   def initialize
     @hh = {}
   end
+
   def add_person options
     puts "Already exists!" if @hh[options[:name]]
     @hh[options[:name]] = options[:age]
@@ -19,6 +20,7 @@ class Book
     #return @hh
     @hh
   end
+
 end
 
 b = Book.new
