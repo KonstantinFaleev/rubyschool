@@ -27,7 +27,7 @@ end
 models = ['Airbus-320', 'Boeing-777', 'Il-86']
 planes = []
 1000.times do
-  model = models[rand{0..2}]
+  model = models[rand(0..2)]
   plane = Airplane.new(model)
 
   if rand(0..1) == 1
