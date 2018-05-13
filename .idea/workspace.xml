@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Projects/lesson2/app2.rb" description="puts 2 + 2 * 2" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3be5157-5a4a-4948-9ab3-6952554a359e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a3be5157-5a4a-4948-9ab3-6952554a359e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,32 +13,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/rubyschool@demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1523516185490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1526158483219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@demoself.coverage" NAME="demoself Coverage Results" MODIFIED="1523534736708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson16" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1523525624154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo6.coverage" NAME="demo6 Coverage Results" MODIFIED="1526161593381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app1.coverage" NAME="app1 Coverage Results" MODIFIED="1524162942639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/MyApp1" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@defdemo2.coverage" NAME="defdemo2 Coverage Results" MODIFIED="1523351053651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson9" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@defdemo6.coverage" NAME="defdemo6 Coverage Results" MODIFIED="1523355090818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson9" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@arrdemo.coverage" NAME="arrdemo Coverage Results" MODIFIED="1523362252910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson9" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app4.coverage" NAME="app4 Coverage Results" MODIFIED="1524162524278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson2" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1523512751774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@app3__1_.coverage" NAME="app3 (1) Coverage Results" MODIFIED="1526070103171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson13" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1526127576292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@defdemo3.coverage" NAME="defdemo3 Coverage Results" MODIFIED="1523351227716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson9" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@defdemo4.coverage" NAME="defdemo4 Coverage Results" MODIFIED="1523351826309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson9" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app6.coverage" NAME="app6 Coverage Results" MODIFIED="1524164345760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson2" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app3.coverage" NAME="app3 Coverage Results" MODIFIED="1524162546229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson2" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1523517454638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1523516997862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@app2.coverage" NAME="app2 Coverage Results" MODIFIED="1524154495022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson2" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1523528921276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo5.coverage" NAME="demo5 Coverage Results" MODIFIED="1526160048853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1526125454657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@app1__1_.coverage" NAME="app1 (1) Coverage Results" MODIFIED="1526068579980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson13" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@app2.coverage" NAME="app2 Coverage Results" MODIFIED="1526122596872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson13" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo4.coverage" NAME="demo4 Coverage Results" MODIFIED="1526158742591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app5.coverage" NAME="app5 Coverage Results" MODIFIED="1524163467696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson2" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@demo7.coverage" NAME="demo7 Coverage Results" MODIFIED="1526162636838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson14" MODULE_NAME="rubyschool" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="demo5.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo5.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="144">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -49,8 +50,8 @@
       <file leaf-file-name="demo6.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo6.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="35" />
+            <state relative-caret-position="35">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -59,8 +60,28 @@
       <file leaf-file-name="demo7.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo7.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="316">
+              <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app1.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson15/app1.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson13/app2.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -76,61 +97,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app2.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/lesson2/app2.rb">
+      <file leaf-file-name="demo1.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo1.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <state relative-caret-position="120">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app1.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/MyApp1/app1.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app5.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/lesson2/app5.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app6.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Projects/lesson2/app6.rb">
+      <file leaf-file-name="demo2.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo2.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app3.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/lesson2/app3.rb">
+      <file leaf-file-name="demo3.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo3.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="388">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app4.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/lesson2/app4.rb">
+      <file leaf-file-name="demo4.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo4.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="528">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -151,11 +152,8 @@
         <option value="$PROJECT_DIR$/Projects/lesson9/arrdemo.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson14/demo1.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson14/demo2.rb" />
-        <option value="$PROJECT_DIR$/Projects/lesson14/demo3.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson14/demo4.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson14/demo5.rb" />
-        <option value="$PROJECT_DIR$/Projects/lesson14/demo6.rb" />
-        <option value="$PROJECT_DIR$/Projects/lesson14/demo7.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson16/demoself.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson2/app2.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson2/app3.rb" />
@@ -163,6 +161,13 @@
         <option value="$PROJECT_DIR$/Projects/MyApp1/app1.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson2/app5.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson2/app6.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson13/app1.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson13/app3.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson13/app2.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson14/demo3.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson14/demo6.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson14/demo7.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson15/app1.rb" />
       </list>
     </option>
   </component>
@@ -194,8 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,10 +211,24 @@
               <item name="rubyschool" type="462c0819:PsiDirectoryNode" />
               <item name="Projects" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rubyschool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson15" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rubyschool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson16" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,11 +248,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.app6">
-    <configuration name="app1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.demo7">
+    <configuration name="demo3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/MyApp1" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson14" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -247,13 +264,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/MyApp1/app1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson14/demo3.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="app3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="demo4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson14" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -265,13 +282,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson2/app3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson14/demo4.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="app4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="demo5" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson14" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -283,13 +300,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson2/app4.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson14/demo5.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="app5" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="demo6" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson14" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -301,13 +318,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson2/app5.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson14/demo6.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
-    <configuration name="app6" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="demo7" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson2" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Projects/lesson14" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -319,23 +336,23 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson2/app6.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Projects/lesson14/demo7.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Ruby.app1" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.app4" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.app3" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.app5" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.app6" />
+      <item index="0" class="java.lang.String" itemvalue="Ruby.demo3" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.demo4" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.demo5" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.demo6" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.demo7" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.app6" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.app5" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.app1" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.app3" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.app4" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.demo7" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.demo6" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.demo5" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.demo4" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -356,26 +373,27 @@
       <workItem from="1523511941723" duration="9790000" />
       <workItem from="1524153903973" duration="7880000" />
       <workItem from="1524570836908" duration="612000" />
+      <workItem from="1526055980742" duration="19476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26311000" />
+    <option name="totallyTimeSpent" value="45787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="889" height="948" extended-state="6" />
+    <frame x="65" y="-4" width="895" height="944" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57431626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20141342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32531646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3384224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3379747" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -396,46 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo5.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo6.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo7.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson16/demoself.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson2/app2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="9" lean-forward="false" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/MyApp1/app1.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -676,74 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo1.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo4.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo5.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo6.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson16/demoself.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo7.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson2/app3.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson2/app4.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -780,6 +690,126 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson12/app7.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson2/app3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson13/app1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson13/app3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson13/app2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo4.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson16/demoself.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo5.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo6.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson14/demo7.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson15/app1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
