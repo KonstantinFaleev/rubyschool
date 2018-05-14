@@ -15,6 +15,8 @@ loop do
     f = hh[x]
     balance = f.call balance
     puts 'Lambda called'
+  else
+    balance = sub_5.call balance
   end
 
   puts "Balance #{balance}"
