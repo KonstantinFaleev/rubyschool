@@ -31,4 +31,4 @@ end
 hipster = Humans::Hipster.new
 hipster.say_hi
 
-cat = Animal::Dog.new
+cat = Animals::Dog.new
