@@ -7,5 +7,4 @@ while (line = input.gets)
   end
 end
 
-
 input.close
