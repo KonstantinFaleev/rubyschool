@@ -5,7 +5,7 @@ input = File.open "passwords.txt", "r"
 
 while (line = input.gets)
   line.strip!
-  if line == my_password
+  if my_password.include? line
     puts "Your password is week"
     exit
   end
