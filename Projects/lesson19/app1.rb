@@ -4,6 +4,24 @@ get '/' do
   erb :index
 end
 
+get '/contacts' do
+@title = 'Contacts'
+  @message = 'Phone number: 123456789'
+  erb :message
+end
+
+get '/faq' do
+  @title = 'FAQ'
+  @message = 'Under construction'
+  erb :message
+end
+
+get '/something' do
+  @title = 'Something'
+  @message = 'Blabla'
+  erb :message
+end
+
 post '/' do
   @login = params[:aaa]
   @password = params[:bbb]
