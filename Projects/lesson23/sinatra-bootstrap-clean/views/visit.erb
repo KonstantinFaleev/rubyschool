@@ -3,22 +3,24 @@
 
 <form accept="/visit" name="POST">
   <div class="form-group">
-    <label for="exampleInputEmail1">Ваше имя</label>
-    <input name="username" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Введите ваше имя">
+    <label>Ваше имя</label>
+    <input name="username" type="text" class="form-control"  aria-describedby="emailHelp" placeholder="Введите ваше имя">
   </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Ваш телефон</label>
-    <input name="phone" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Введите ваш телефон">
+    <label>Ваш телефон</label>
+    <input name="phone" type="text" class="form-control" aria-describedby="emailHelp" placeholder="Введите ваш телефон">
   </div>
   <div class="form-group">
-    <label for="exampleInputEmail1">Когда вас ждать?</label>
-    <input name="datetime" type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Введите дату и время">
+    <label>Когда вас ждать?</label>
+    <input name="datetime" type="text" class="form-control" aria-describedby="emailHelp" placeholder="Введите дату и время">
   </div>
-  <select class="custom-select">
-    <option selected>Выбрать парикмахера:</option>
-    <option value="1">Walter White</option>
-    <option value="2">Jessie Pinkman</option>
-    <option value="3">Gus Fring</option>
-  </select>
+  <div class="form-group">
+    <label>Выбрать парикмахера:</label>
+      <select class="form-control">
+        <option>Walter White</option>
+        <option>Jessie Pinkman</option>
+        <option>Gus Fring</option>
+      </select>
+  </div>
   <button type="submit" class="btn btn-primary">Записаться</button>
 </form>
