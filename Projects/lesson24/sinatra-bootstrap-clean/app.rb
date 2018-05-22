@@ -30,11 +30,16 @@ post '/visit' do
   hh = { :username => 'Введите имя',
          :phone => 'Введите телефон',
          :datetime => 'Введите дату и время' }
-  hh.each do |key, value|
-    if params[key] == ''
-      @error = hh[key]
-      return erb :visit
-    end
+  #hh.each do |key, value|
+  #  if params[key] == ''
+  #    @error = hh[key]
+  #    return erb :visit
+  #  end
+  #end
+
+  @error = hh.select {|key,_| params[key] == ""}.values.join(", ")
+  if @error != ''
+    return erb :visit
   end
   @title = 'Thank you!'
   @message = "Dear #{@username}, we'll be waiting for you at #{@datetime} "

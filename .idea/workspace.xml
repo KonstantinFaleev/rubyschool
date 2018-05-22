@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3be5157-5a4a-4948-9ab3-6952554a359e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/views/visit.erb" afterPath="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/views/visit.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb" afterPath="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visit.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="visit.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/views/visit.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -81,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="123">
+              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -208,8 +208,8 @@
         <option value="$PROJECT_DIR$/Projects/lesson23/sinatra-bootstrap-clean/views/layout.erb" />
         <option value="$PROJECT_DIR$/Projects/lesson23/sinatra-bootstrap-clean/app.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson23/sinatra-bootstrap-clean/views/visit.erb" />
-        <option value="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/views/visit.erb" />
+        <option value="$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb" />
       </list>
     </option>
   </component>
@@ -461,12 +461,12 @@
       <workItem from="1526757376814" duration="6571000" />
       <workItem from="1526822262856" duration="3073000" />
       <workItem from="1526933955826" duration="7685000" />
-      <workItem from="1527010011711" duration="5800000" />
+      <workItem from="1527010011711" duration="6388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102007000" />
+    <option name="totallyTimeSpent" value="102595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="895" height="944" extended-state="6" />
@@ -849,18 +849,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/views/visit.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson24/sinatra-bootstrap-clean/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding />
         </state>
       </provider>
