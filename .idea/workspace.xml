@@ -2,12 +2,11 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/Projects/lesson2/app2.rb" description="puts 2 + 2 * 2" line="0" />
-    <bookmark url="file://$PROJECT_DIR$/Projects/lesson26/app.rb" line="80" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3be5157-5a4a-4948-9ab3-6952554a359e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson25/rubyschool-lesson-25" afterPath="$PROJECT_DIR$/Projects/lesson25/rubyschool-lesson-25" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson26/showusers/app.rb" afterPath="$PROJECT_DIR$/Projects/lesson26/showusers/app.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson26/app.rb" afterPath="$PROJECT_DIR$/Projects/lesson26/app.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,10 +39,10 @@
     <SUITE FILE_PATH="coverage/rubyschool@app1.coverage" NAME="app1 Coverage Results" MODIFIED="1526675012121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson19" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@defdemo2.coverage" NAME="defdemo2 Coverage Results" MODIFIED="1523351053651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson9" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@netdemo5.coverage" NAME="netdemo5 Coverage Results" MODIFIED="1526494305882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson18" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@app__5_.coverage" NAME="app (5) Coverage Results" MODIFIED="1527162151129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson26" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@app__5_.coverage" NAME="app (5) Coverage Results" MODIFIED="1527191791112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson26" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app4.coverage" NAME="app4 Coverage Results" MODIFIED="1526233741178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson15" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@barbershop.coverage" NAME="barbershop Coverage Results" MODIFIED="1526803144202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson20" MODULE_NAME="rubyschool" />
-    <SUITE FILE_PATH="coverage/rubyschool@app.coverage" NAME="app Coverage Results" MODIFIED="1527190589436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson26/showusers" MODULE_NAME="rubyschool" />
+    <SUITE FILE_PATH="coverage/rubyschool@app.coverage" NAME="app Coverage Results" MODIFIED="1527191445118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson26/showusers" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1526987998385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson23/sinatra-bootstrap-clean" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@app3__1_.coverage" NAME="app3 (1) Coverage Results" MODIFIED="1526070103171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson13" MODULE_NAME="rubyschool" />
     <SUITE FILE_PATH="coverage/rubyschool@lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1526311309552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projects/lesson16" MODULE_NAME="rubyschool" />
@@ -67,15 +66,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sqlite_master" pinned="false" current-in-tab="false">
-        <entry file="das://table:/4ae6bb10/3cbf4062-5a6d-421a-b54d-d694c328c66b/main.sqlite_master">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Users" pinned="false" current-in-tab="false">
         <entry file="das://table:/4ae6bb10/3cbf4062-5a6d-421a-b54d-d694c328c66b/main.Users">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -95,17 +85,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projects/lesson26/app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="106" column="40" lean-forward="false" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="46" />
+            <state relative-caret-position="360">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="showusers.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Projects/lesson26/views/showusers.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/lesson26/showusers/app.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -175,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Projects/lesson14/demo6.rb" />
-        <option value="$PROJECT_DIR$/Projects/lesson14/demo7.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson15/app1.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson15/app2.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson15/app3_lite.rb" />
@@ -224,8 +222,10 @@
         <option value="$PROJECT_DIR$/Projects/lesson26/views/visit.erb" />
         <option value="$PROJECT_DIR$/Projects/lesson26/public/jquery.datetimepicker.css" />
         <option value="$PROJECT_DIR$/Projects/lesson26/public/jquery.datetimepicker.js" />
-        <option value="$PROJECT_DIR$/Projects/lesson26/app.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson26/showusers/app.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson26/views/showusers.rb" />
+        <option value="$PROJECT_DIR$/Projects/lesson26/views/showusers.erb" />
+        <option value="$PROJECT_DIR$/Projects/lesson26/app.rb" />
       </list>
     </option>
   </component>
@@ -284,6 +284,13 @@
               <item name="lesson26" type="462c0819:PsiDirectoryNode" />
               <item name="showusers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rubyschool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rubyschool" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson26" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -320,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.app">
+  <component name="RunManager" selected="Ruby.app (5)">
     <configuration name="app (2)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="rubyschool" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -420,8 +427,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.app" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.app (5)" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.app (5)" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.app" />
         <item index="2" class="java.lang.String" itemvalue="Ruby.app (4)" />
         <item index="3" class="java.lang.String" itemvalue="Ruby.app (3)" />
         <item index="4" class="java.lang.String" itemvalue="Ruby.app (2)" />
@@ -454,25 +461,26 @@
       <workItem from="1526933955826" duration="7685000" />
       <workItem from="1527010011711" duration="12725000" />
       <workItem from="1527089404728" duration="11490000" />
-      <workItem from="1527161551020" duration="9046000" />
+      <workItem from="1527161551020" duration="10893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129468000" />
+    <option name="totallyTimeSpent" value="131315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="35" width="897" height="952" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29681978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19199058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3379747" sideWeight="0.5041225" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32531646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33417723" sideWeight="0.4958775" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33417723" sideWeight="0.4958775" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -480,7 +488,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -495,13 +502,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Projects/lesson20/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson20/views/message.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -824,18 +824,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson26/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="106" column="40" lean-forward="false" selection-start-line="106" selection-start-column="18" selection-end-line="106" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson26/showusers/app.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson26/views/showusers.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson26/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>
