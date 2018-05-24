@@ -99,6 +99,10 @@ post '/contact' do
   redirect '/visit'
 end
 
+get '/showusers' do
+  erb "Hello World"
+end
+
 def get_db
   return SQLite3::Database.new 'barbershop.db'
 end
