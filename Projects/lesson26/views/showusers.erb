@@ -1,7 +1,16 @@
 <h1>Просмотр заказов</h1>
 
-<%= @results %>
 <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Имя</th>
+      <th scope="col">Телефон</th>
+      <th scope="col">Дата записи</th>
+      <th scope="col">Парикмахер</th>
+      <th scope="col">Цвет волос</th>
+    </tr>
+  </thead>
+  <body>
   <% @results.each do |row| %>
       <tr>
         <td><%= row['username'] %></td>
@@ -11,4 +20,5 @@
         <td><%= row['color'] %></td>
       </tr>
   <% end %>
+  </body>
 </table>
