@@ -3,6 +3,7 @@
 <table class="table">
   <thead>
     <tr>
+      <th scope="col">№</th>
       <th scope="col">Имя</th>
       <th scope="col">Телефон</th>
       <th scope="col">Дата записи</th>
@@ -18,7 +19,7 @@
         <td><%= row['phone'] %></td>
         <td><%= row['datestamp'] %></td>
         <td><%= row['barber'] %></td>
-        <td><%= row['color'] %></td>
+        <td style="background-color: <%= row['color'] %>"><%= row['color'] %></td>
       </tr>
   <% end %>
   </tbody>

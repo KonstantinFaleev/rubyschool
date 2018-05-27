@@ -100,11 +100,11 @@ post '/visit' do
       values ( ?, ?, ?, ?, ?)', [@username, @phone, @datestamp, @barber, @color]
 
   @title = 'Thank you!'
-  @message = "Dear #{@username}, we'll be waiting for you at #{@datetime} "
+  @message = "Dear #{@username}, we'll be waiting for you at #{@datestamp} "
 
-  f = File.open './public/users.txt', 'a'
-  f.write "User: #{@username}, Phone: #{@phone}, Date and time: #{@datetime}, Name barber: #{@barber}, Color: #{@color}"
-  f.close
+ # f = File.open './public/users.txt', 'a'
+ # f.write "User: #{@username}, Phone: #{@phone}, Date and time: #{@datetime}, Name barber: #{@barber}, Color: #{@color}"
+ # f.close
   erb :message
 end
 
