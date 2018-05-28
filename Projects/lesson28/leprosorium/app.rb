@@ -47,5 +47,10 @@ post '/new' do
   # Сохранение данных в БД
   @db.execute 'insert into Posts (content, created_date) values (?, datetime())', [content]
   redirect to '/'
-  erb "You typed: #{content}"
+end
+
+get '/details/:post_id' do
+  post_id = params[:post_id]
+
+  erb "Displaying information for post with id #{post_id}"
 end

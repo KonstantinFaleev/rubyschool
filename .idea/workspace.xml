@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3be5157-5a4a-4948-9ab3-6952554a359e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/message.erb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb" afterPath="$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/index.erb" afterPath="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/index.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,17 +98,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/views/index.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -130,16 +133,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="32" column="3" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="40" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/views/message.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -222,8 +215,8 @@
         <option value="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/layout.erb" />
         <option value="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/new.erb" />
         <option value="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/.gitignore" />
-        <option value="$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb" />
         <option value="$PROJECT_DIR$/Projects/lesson28/leprosorium/views/index.erb" />
+        <option value="$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb" />
       </list>
     </option>
   </component>
@@ -550,12 +543,12 @@
       <workItem from="1526933955826" duration="7685000" />
       <workItem from="1527010011711" duration="12725000" />
       <workItem from="1527089404728" duration="11490000" />
-      <workItem from="1527161551020" duration="34531000" />
+      <workItem from="1527161551020" duration="35099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154953000" />
+    <option name="totallyTimeSpent" value="155521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="35" width="897" height="952" extended-state="6" />
@@ -909,14 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/views/message.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/views/new.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -933,6 +918,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/views/message.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson26/app.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -941,18 +934,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="48" column="14" lean-forward="false" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/views/index.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projects/lesson28/leprosorium/app.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
           <folding />
         </state>
       </provider>
