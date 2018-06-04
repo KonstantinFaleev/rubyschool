@@ -4,7 +4,7 @@ def parse_orders_line orders_line
   s1 = orders_line.split(/,/)
   arr = []
   s1.each do |x|
-    s2 = x.split(/=/)
+    s2 = x.split(/\=/)
 
     s3 = s2[0].split(/_/)
 
